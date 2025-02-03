@@ -1,13 +1,11 @@
 --English--
-Hi! My name is Max, I'm 30 years old, and currently I live in Argentina.
-I'm studying a lot, trying to become a web developer, hoping to get my first job in the field.
-I will be uploading here the projects I am working on. Slowly building my portfolio 🌱
+Hi! My name is Max, I'm 32 years old, and currently I live in Uruguay.
+I'm studying a lot, trying to become a better Odoo developer.
 
 You can reach me at maximilianogamon@gmail.com
 
 --Español--
-¡Hola! Mi nombre es Max, tengo 30 años y actualmente vivo en Argentina.
-Estoy estudiando un montón, intentando ser un desarrollador web, queriendo conseguir mi primer empleo en el campo.
-Voy a estar cargando aquí los proyectos en los que estoy trabajando. Lentamente construyendo mi portfolio 🌱
+¡Hola! Mi nombre es Max, tengo 32 años y actualmente vivo en Uruguay.
+Estoy estudiando un montón, intentando ser un mejor desarrollador Odoo-
 
 Puede contactarme en maximilianogamon@gmail.com
